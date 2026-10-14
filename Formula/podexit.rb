@@ -1,8 +1,8 @@
 class Podexit < Formula
   desc "Show which CocoaPods stop getting updates when trunk goes read-only"
   homepage "https://github.com/muhittincamdali/podexit"
-  url "https://github.com/muhittincamdali/podexit/releases/download/v0.1.0/podexit-0.1.0.tgz"
-  sha256 "0555ed3e3af11bc080a28023fc1711f5a9e82aef4a1a2fb1b2c2eb5ad67f3b27"
+  url "https://github.com/muhittincamdali/podexit/releases/download/v0.1.1/podexit-0.1.1.tgz"
+  sha256 "548d7b70ec8989ce4c1cc80276e0be6cfdebe800cfdd2e408d6489da8d22e7c6"
   license "MIT"
 
   depends_on "node"
