@@ -17,9 +17,11 @@ brew install muhittincamdali/tap/podexit
 
 ## Formulae
 
-| Formula                                                | What it does                                                                 |
-| ------------------------------------------------------ | ---------------------------------------------------------------------------- |
-| [podexit](https://github.com/muhittincamdali/podexit) | Shows which CocoaPods stop getting updates when trunk goes read-only         |
+| Formula                                                     | What it does                                                         |
+| ----------------------------------------------------------- | -------------------------------------------------------------------- |
+| [podexit](https://github.com/muhittincamdali/podexit)       | Shows which CocoaPods stop getting updates when trunk goes read-only |
+| [sdkbump](https://github.com/muhittincamdali/sdkbump)       | Checks iOS, Flutter and React Native apps for iOS 27 SDK changes     |
+| [sizeledger](https://github.com/muhittincamdali/sizeledger) | Shows where every megabyte of an iOS app comes from                  |
 
 ## Checks
 
