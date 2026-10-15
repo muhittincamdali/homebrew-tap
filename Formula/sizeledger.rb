@@ -1,7 +1,6 @@
 class Sizeledger < Formula
   desc "Show where every megabyte of an iOS app comes from"
   homepage "https://github.com/muhittincamdali/sizeledger"
-  version "0.1.0"
   license "MIT"
 
   # Homebrew's style rules do not allow url inside on_macos/on_linux blocks; OS and CPU checks
