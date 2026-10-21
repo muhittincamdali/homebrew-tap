@@ -6,14 +6,14 @@ class Sizeledger < Formula
   # Homebrew's style rules do not allow url inside on_macos/on_linux blocks; OS and CPU checks
   # pick the archive instead.
   if OS.mac?
-    url "https://github.com/muhittincamdali/sizeledger/releases/download/v0.1.8/sizeledger-0.1.8-macos-universal.tar.gz"
-    sha256 "94b340eb6a6c372862a1281f0b2bf7b1da8110a64df2a13cede9cbbe96c3ee99"
+    url "https://github.com/muhittincamdali/sizeledger/releases/download/v0.1.9/sizeledger-0.1.9-macos-universal.tar.gz"
+    sha256 "194e1ce911954a586ec9e2e52af314b903d4c0f7e41b4ace156e4e2689197ff9"
   elsif Hardware::CPU.intel?
-    url "https://github.com/muhittincamdali/sizeledger/releases/download/v0.1.8/sizeledger-0.1.8-linux-x86_64.tar.gz"
-    sha256 "dc2ad5b5449ccd0130914b6b1791e28cbae2691920ccc0249e85698311d34f6a"
+    url "https://github.com/muhittincamdali/sizeledger/releases/download/v0.1.9/sizeledger-0.1.9-linux-x86_64.tar.gz"
+    sha256 "d475d7bfaceb59d2d2c3ed70b41abfa0056525bea1cdd5a5b549032d8687f4e0"
   else
-    url "https://github.com/muhittincamdali/sizeledger/releases/download/v0.1.8/sizeledger-0.1.8-linux-aarch64.tar.gz"
-    sha256 "b7138ec0956b0d0af83db22884ccc172ee702599215a00f90953e51ff5b5ee34"
+    url "https://github.com/muhittincamdali/sizeledger/releases/download/v0.1.9/sizeledger-0.1.9-linux-aarch64.tar.gz"
+    sha256 "f47a3a0f0c06f33eef85cfd821c480b3ceaebb1f2c45563b2b4445a861ca9136"
   end
 
   def install
