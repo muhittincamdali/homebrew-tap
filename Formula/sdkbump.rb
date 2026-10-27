@@ -1,8 +1,8 @@
 class Sdkbump < Formula
   desc "Check iOS, Flutter and React Native apps for iOS 27 SDK changes"
   homepage "https://github.com/muhittincamdali/sdkbump"
-  url "https://github.com/muhittincamdali/sdkbump/releases/download/v0.1.3/sdkbump-0.1.3.tgz"
-  sha256 "2f5e8df043104ff064679bb30bef45797ddc3bfea55e8e5ca9623b8b9bacdd45"
+  url "https://github.com/muhittincamdali/sdkbump/releases/download/v0.1.4/sdkbump-0.1.4.tgz"
+  sha256 "4bfb0ed943502b0974f26741aa7443133947788c9d9cf41bb9112547f3ca631a"
   license "MIT"
 
   depends_on "node"
