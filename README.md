@@ -20,6 +20,7 @@ brew install muhittincamdali/tap/podexit
 | Formula                                                     | What it does                                                          |
 | ----------------------------------------------------------- | --------------------------------------------------------------------- |
 | [a11ylabel](https://github.com/muhittincamdali/a11ylabel)   | Shows which App Store accessibility labels an app can claim           |
+| [asnsim](https://github.com/muhittincamdali/asnsim)         | Sends signed App Store Server Notifications V2 to a local webhook     |
 | [fmdrift](https://github.com/muhittincamdali/fmdrift)       | Regression tests for prompts to Apple's on-device foundation model    |
 | [glassready](https://github.com/muhittincamdali/glassready) | Shows what Liquid Glass changes in iOS, Flutter and React Native apps |
 | [podexit](https://github.com/muhittincamdali/podexit)       | Shows which CocoaPods stop getting updates when trunk goes read-only  |
