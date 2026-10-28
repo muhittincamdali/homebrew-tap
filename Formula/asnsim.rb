@@ -1,8 +1,8 @@
 class Asnsim < Formula
   desc "Simulate signed App Store Server Notifications V2 against a local webhook"
   homepage "https://github.com/muhittincamdali/asnsim"
-  url "https://github.com/muhittincamdali/asnsim/releases/download/v0.1.1/asnsim-0.1.1.tgz"
-  sha256 "46375b58dc2ba8676a7d66efddaabe2e1f08ca8a0a56050954d463c8a409fe3b"
+  url "https://github.com/muhittincamdali/asnsim/releases/download/v0.1.2/asnsim-0.1.2.tgz"
+  sha256 "9b07c9637835b762557e64224ec2d98608c804ce6953ae80544b81cceac73c86"
   license "MIT"
 
   depends_on "node"
