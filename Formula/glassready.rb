@@ -1,8 +1,8 @@
 class Glassready < Formula
   desc "Show what Liquid Glass changes in iOS, Flutter and React Native apps"
   homepage "https://github.com/muhittincamdali/glassready"
-  url "https://github.com/muhittincamdali/glassready/releases/download/v0.1.2/glassready-0.1.2.tgz"
-  sha256 "c42b9f52357997324c67a87346f2bbbf2bcc6de36be9a54dbd7d64e2a27c9e6a"
+  url "https://github.com/muhittincamdali/glassready/releases/download/v0.1.3/glassready-0.1.3.tgz"
+  sha256 "4c2f7a81fd7e23bd23d7c638f6d013deb128270595c5f6065fd39f35904284db"
   license "MIT"
 
   depends_on "node"
