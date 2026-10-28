@@ -1,8 +1,8 @@
 class Reviewready < Formula
   desc "Catch App Review rejections in iOS, Flutter and React Native projects"
   homepage "https://github.com/muhittincamdali/reviewready"
-  url "https://github.com/muhittincamdali/reviewready/releases/download/v0.1.0/reviewready-0.1.0.tgz"
-  sha256 "0b1b8ac3eabda66377c7c4acf8a4e690b36ab6f3d0127b8410acd0a1fd449ceb"
+  url "https://github.com/muhittincamdali/reviewready/releases/download/v0.1.1/reviewready-0.1.1.tgz"
+  sha256 "95ea73f148ac7a83e06b083707031ea5b04ddfbd050b38f4cc0927170d318d1c"
   license "MIT"
 
   depends_on "node"
